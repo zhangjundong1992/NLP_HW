@@ -1,0 +1,6 @@
+emails:
+['zhangsan@swufe.edu.cn', '31231232@qq.com', 'lisi0843@163.com']
+mobiles:
+['12332123321', '028-88888888']
+urls:
+['https://www.baidu.com/']
