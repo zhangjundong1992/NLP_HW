@@ -1,3 +1,2 @@
 # NLP
- NLP作业
-IDE Pycharm
+IDE： Pycharm
